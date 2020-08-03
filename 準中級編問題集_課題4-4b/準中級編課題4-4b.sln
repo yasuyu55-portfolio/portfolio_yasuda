@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "準中級編課題4-4b", "準中級編課題4-4b\準中級編課題4-4b.csproj", "{DB2FFD0C-B741-483D-A645-22A3D67D1464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2FFD0C-B741-483D-A645-22A3D67D1464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2FFD0C-B741-483D-A645-22A3D67D1464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2FFD0C-B741-483D-A645-22A3D67D1464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2FFD0C-B741-483D-A645-22A3D67D1464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F052A45-EC88-4CBE-8FF1-E784673935A2}
+	EndGlobalSection
+EndGlobal
