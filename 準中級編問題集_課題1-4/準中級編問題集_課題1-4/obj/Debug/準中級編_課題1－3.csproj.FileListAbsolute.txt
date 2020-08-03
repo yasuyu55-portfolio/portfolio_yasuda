@@ -1,0 +1,10 @@
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\bin\Debug\準中級編_課題1－3.exe.config
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\bin\Debug\準中級編_課題1－3.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\bin\Debug\準中級編_課題1－3.pdb
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1－3.csprojResolveAssemblyReference.cache
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1_3.Form_Main.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1_3.Form_Sub.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1_3.Properties.Resources.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1－3.csproj.GenerateResource.Cache
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1－3.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編_課題1－3\準中級編_課題1－3\obj\Debug\準中級編_課題1－3.pdb

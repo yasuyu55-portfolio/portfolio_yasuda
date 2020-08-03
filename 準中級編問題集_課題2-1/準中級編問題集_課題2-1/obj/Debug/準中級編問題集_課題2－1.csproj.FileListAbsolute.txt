@@ -1,0 +1,6 @@
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編問題集_課題2－1\準中級編問題集_課題2－1\bin\Debug\準中級編問題集_課題2－1.exe.config
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編問題集_課題2－1\準中級編問題集_課題2－1\bin\Debug\準中級編問題集_課題2－1.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編問題集_課題2－1\準中級編問題集_課題2－1\bin\Debug\準中級編問題集_課題2－1.pdb
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編問題集_課題2－1\準中級編問題集_課題2－1\obj\Debug\準中級編問題集_課題2－1.csprojResolveAssemblyReference.cache
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編問題集_課題2－1\準中級編問題集_課題2－1\obj\Debug\準中級編問題集_課題2－1.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編問題集_課題2－1\準中級編問題集_課題2－1\obj\Debug\準中級編問題集_課題2－1.pdb

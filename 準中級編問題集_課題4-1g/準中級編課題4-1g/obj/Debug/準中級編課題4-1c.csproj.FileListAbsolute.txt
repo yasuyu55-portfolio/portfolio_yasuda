@@ -1,0 +1,11 @@
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\bin\Debug\準中級編課題4-1a.exe.config
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\bin\Debug\準中級編課題4-1a.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\bin\Debug\準中級編課題4-1a.pdb
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\obj\Debug\準中級編課題4_1c.Form_Main.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\obj\Debug\準中級編課題4_1c.Properties.Resources.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\obj\Debug\準中級編課題4-1c.csproj.GenerateResource.Cache
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\obj\Debug\準中級編課題4-1a.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1c\準中級編課題4-1c\obj\Debug\準中級編課題4-1a.pdb
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1d\準中級編課題4-1d\bin\Debug\準中級編課題4-1a.exe.config
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1d\準中級編課題4-1d\obj\Debug\準中級編課題4-1a.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-1d\準中級編課題4-1d\obj\Debug\準中級編課題4-1a.pdb

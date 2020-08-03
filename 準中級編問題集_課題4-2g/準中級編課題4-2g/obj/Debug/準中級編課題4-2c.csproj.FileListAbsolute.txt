@@ -1,0 +1,9 @@
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\bin\Debug\準中級編課題4-2b.exe.config
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\obj\Debug\準中級編課題4-2b.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\obj\Debug\準中級編課題4-2b.pdb
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\bin\Debug\準中級編課題4-2b.exe
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\bin\Debug\準中級編課題4-2b.pdb
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\obj\Debug\準中級編課題4-2c.csprojResolveAssemblyReference.cache
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\obj\Debug\準中級編課題4_2c.Form_Main.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\obj\Debug\準中級編課題4_2c.Properties.Resources.resources
+C:\Users\190022\Documents\成果物\問題集入門課題\準中級編課題4-2c\準中級編課題4-2c\obj\Debug\準中級編課題4-2c.csproj.GenerateResource.Cache
